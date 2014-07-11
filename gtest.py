@@ -1,4 +1,5 @@
 import time
+from gevent import spawn, wait
 
 def work():
     while True:
