@@ -14,6 +14,8 @@ Trying to get IPython work with gevent..
     
     In [2]: gtest.spawn(gtest.work)
     Out[2]: <Greenlet at 0x10287caf0: work>
+
+    In [3]: Hello
     Hello
     Hello
 
